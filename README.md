@@ -1,1 +1,1 @@
-# ds4400-machine-learning-1
+# DS 4400: Machine Learning & Data Mining 1
